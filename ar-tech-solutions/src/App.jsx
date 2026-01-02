@@ -1,4 +1,5 @@
 import { useState } from 'react'
+
 import './App.css'
 
 function App() {
@@ -8,11 +9,14 @@ function App() {
     <>
       <div>
         <a href="https://vite.dev" target="_blank">
-                 </a>
+          
+        </a>
         <a href="https://react.dev" target="_blank">
-                  </a>
+          
+        </a>
       </div>
-      <h1>Vite + React</h1>
+      <h1> Pavan </h1>
+      <h2>tharun</h2>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
